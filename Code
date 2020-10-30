@@ -1,8 +1,3 @@
-# Hacked-trex-game
-Hacked version of trex game code. Free for all. Used javascript.
-
-full code below. -------
-
 
 var PLAY = 1;
 var END = 0;
